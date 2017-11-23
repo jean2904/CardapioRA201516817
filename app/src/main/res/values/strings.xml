@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cardápio</string>
+    <string name="dica_busca">produto</string>
+    <string name="txt_botao">Buscar</string>
+    <string name="label_cardapio_nome">Nome:</string>
+    <string name="label_cardapio_detalhe">Detalhe:</string>
+    <string name="label_cardapio_ingrediente">Ingredientes:</string>
+</resources>
